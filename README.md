@@ -2,7 +2,7 @@
 Jupyter Dash for DB querying: latest observed data point
 
 Click to launch Binder environment for Jupyter notebooks --> 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beto-Sibileau/ipy_last_obs/master) .
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beto-Sibileau/ipy_last_obs/main) .
 
 Please consider whitelisting the link if your ad-blocker is interfering with the execution (*e.g*: the log remains empty).
 

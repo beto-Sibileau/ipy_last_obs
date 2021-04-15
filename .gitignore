@@ -1,5 +1,6 @@
 # tm indicators excel file
 CL_INDICATORS_TRANSMONEE.xlsx
+CL_COUNTRY.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
